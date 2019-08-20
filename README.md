@@ -2,6 +2,9 @@
 
 Frontend part of Dating Application created with Angular 8 as part of Udemy course - https://www.udemy.com/build-an-app-with-aspnet-core-and-angular-from-scratch/
 
+### Linked project:
+https://github.com/zubi96/Dating-Application-Frontend
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Development server
