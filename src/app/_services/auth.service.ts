@@ -25,4 +25,16 @@ export class AuthService {
     return this.http.post(this.baseUrl + 'register', model);
   }
 
+  getPassword(model: any) {
+    return this.http.post(this.baseUrl + 'getpassword', model).pipe(
+      map((response: any) => {
+        if (response) {
+          alert('User password: ' + response.passwordHash);
+        } else{
+          alert('User does not exist');
+        }
+      })
+    );
+  }
+
 }
