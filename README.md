@@ -5,7 +5,6 @@ Frontend part of Dating Application created with Angular 8 as part of Udemy cour
 #### Linked project:
 https://github.com/zubi96/Dating-Application-API
 
-
-## Development server
+#### How to run
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
