@@ -35,3 +35,15 @@
 .animate {
     transition: all 0.3s ease-in-out;
 }
+
+.fa-mars {
+    font-size: 18px;
+    font-weight: 900;
+    color: #4090f7;
+}
+
+.fa-venus {
+    font-size: 18px;
+    font-weight: 900;
+    color: #e63be6;;
+}
